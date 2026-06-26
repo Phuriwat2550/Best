@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Dan Sai Adventure",
+  "description": "An action-adventure game set in Dan Sai, featuring the vibrant Phi Ta Khon festival, fully playable with customizable controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
